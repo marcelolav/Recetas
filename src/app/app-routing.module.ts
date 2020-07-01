@@ -4,7 +4,7 @@ import { ModlpruebaComponent } from './modlprueba/modlprueba.component';
 
 
 const routes: Routes = [
-  {path:"/pruebas", component: ModlpruebaComponent}
+//  {path:"/pruebas", component: ModlpruebaComponent}
 ];
 
 @NgModule({
